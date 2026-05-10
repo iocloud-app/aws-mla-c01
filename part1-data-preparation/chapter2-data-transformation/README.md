@@ -71,7 +71,7 @@ Bất kỳ hàng dữ liệu nào cũng có thể được biểu diễn dưới
 
 * scaling, normalization, shuffling : you know...
 * Chuyển đổi tỷ lệ (scaling), chuẩn hóa (normalization), xáo trộn (shuffling) : bạn biết rồi...
-```
+
 
 *Một số lưu ý nhỏ về thuật ngữ:*
 - *Quy điển (Imputation): Trong thống kê, imputation là việc thay thế dữ liệu bị thiếu bằng các giá trị thay thế. Từ "quy điển" hoặc "điền khuyết" đều được dùng trong tiếng Việt.*
